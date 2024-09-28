@@ -1,11 +1,15 @@
 body{
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: rgb(142, 142, 188);
+background-image: url(https://www.investintech.com/resources/blog/wp-content/uploads/2021/09/Tech-Quiz-Test-Your-Knowledge-While-Having-Fun.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+
+    
 }
  .container{
     width:440px;
     margin-left:33%;
-    background-color: rgb(4, 67, 125);
+    background-color: rgb(24, 197, 136);
     margin-top:100px;
     padding: 20px;
     border-radius:10px ;
@@ -32,7 +36,7 @@ body{
  button {
     width: 140px;
     height: 40px;
-    background-color: rgb(142, 142, 197);
+    background-color: rgb(46, 135, 231);
     color: aliceblue;
     font-size: 24px;
     border:none;
